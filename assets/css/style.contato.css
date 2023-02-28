@@ -1,0 +1,16 @@
+form{
+    background-color: rgb(237, 105, 105);
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 10;
+}
+input{
+    padding: 10px;
+    border-color: black;
+}
+body{
+    background-color: rgb(237, 105, 105);
+}
