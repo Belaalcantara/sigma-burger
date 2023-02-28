@@ -1,0 +1,35 @@
+.hamburguer {
+    background-color: red;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    margin: 8px;
+    border-style: double;
+    border-color: black;
+}
+
+#menu {
+    display: flex;
+}
+
+#menu2 { 
+    display: flex;
+}
+
+#menu3 {
+    display: flex;
+}
+
+#especialdodia {
+    background-color: red;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    margin: 8px;
+    border-style: double;
+    border-color: black
+}
