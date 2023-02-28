@@ -14,3 +14,6 @@ input{
 body{
     background-color: rgb(237, 105, 105);
 }
+header{
+    background-color: red;
+}
