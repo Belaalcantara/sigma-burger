@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+}
+#menu{
+background-color: rgb(255, 0, 0);
+color: white;
+padding: 0px;
+margin: 8px;
+border-radius: 10px;
+}
