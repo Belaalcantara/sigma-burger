@@ -83,14 +83,14 @@ main {
     border-top: 7px solid red;
 }
 
-a{
+a {
     text-decoration: none;
     margin-left: 15px;
     margin-right: 15px;
     color: rgb(88, 42, 23);
 }
 
-p{
+p {
     margin: 10px;
     text-align: justify;
 }
