@@ -1,6 +1,10 @@
 footer{
     background-color:rgb(230, 232, 198);
     text-align: center;
+    position: fixed;
+    margin: 0%;
+    width: 100%;
+    bottom: 0;
 }
 
 a:hover{
