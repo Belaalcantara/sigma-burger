@@ -12,7 +12,7 @@ main{
 
 }
 #sigma{
-    color: bisque;
+    color: rgb(230,232,198);
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
@@ -20,13 +20,13 @@ main{
     font-style: oblique;
 }
 #h1_sigma{
-    color: bisque;
+    color: rgb(230,232,198);
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #sigmaburguer{
     font-size: 20px;
-    color:bisque;
+    color:rgb(230,232,198);
 }
 #img{
     text-align: 50px;
@@ -60,7 +60,7 @@ main{
     display: flex;
 }
 .sect1{
-    background-color:bisque;
+    background-color:rgb(230,232,198);
     color:rgb(88, 42, 23);
     margin: 7px;
     font-size: 13px;
