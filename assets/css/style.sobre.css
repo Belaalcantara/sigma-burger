@@ -1,74 +1,71 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: black;
 }
 main{
-    background-color:red;
+    background-color: rgb(88, 42, 23);
     width: 98%;
-    height: 100%;
+    height: 97%;
     padding: 10px;
     text-align:left;
     margin: 1;
-    border-radius: 10px;
+    margin-left: 1;
 
 }
 #sigma{
-    color: rgb(0, 0, 0);
-    font-size: 45px;
+    color: bisque;
+    font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     margin: 3%;
+    font-style: oblique;
 }
 #h1_sigma{
-    color: rgb(255, 255, 255);
+    color: bisque;
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #sigmaburguer{
     font-size: 20px;
-    color: white;
+    color:bisque;
 }
 #img{
     text-align: 50px;
-    border-radius: 10px;
 }
 .article1{
-    background-color: red;
-    width: 90%;
-    height: 100%;
+    background-color:rgb(88, 42, 23);
+    width: 100%;
+    height: 103%;
 
 }
 #div1{
-    background-color:red;
+    background-color:rgb(88, 42, 23);
     color: rgb(255, 255, 255);
-    margin: 8px;
-    font-size: 20px;
+    margin: 7px;
+    font-size: 10px;
     text-align: justify;
-    width: 100%;
+    width: 99%;
     padding: 0px;
-    border-radius: 10px;
     display: flex;
     
     
 }
 #div2{
-    background-color:red;
+    background-color:rgb(88, 42, 23);
     color: rgb(255, 255, 255);
-    margin: 8px;
-    font-size: 20px;
+    margin: 7px;
+    font-size: 10px;
     text-align: justify;
-    width: 100%;
+    width: 99%;
     padding: 0px;
-    border-radius: 10px;
     display: flex;
 }
 .sect1{
-    background-color:rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
-    margin: 8px;
-    font-size: 20px;
+    background-color:bisque;
+    color:rgb(88, 42, 23);
+    margin: 7px;
+    font-size: 13px;
     text-align: center;
     width: 100%;
     padding: 0px;
-    border-radius: 10px;
 }
 
