@@ -8,6 +8,7 @@
     color: white;
     font-family: cursive;
     text-align: center;
+    
 }
 
 body {
@@ -15,6 +16,8 @@ body {
     color: rgb(255, 255, 255);
     margin: 0;
     padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .section-cardapio {
@@ -50,6 +53,8 @@ p {
     padding: 15px;
     border-left: 12px solid red;
     border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .hamburguer {
@@ -104,13 +109,14 @@ p {
 
 }
 
-#titlo {
+#titulo {
     text-align: center;
 }
 
 .img-lanches {
-    width: 120px;
-    height: px;
+    width: 150px;
+    height: 120px;
+   
     text-align: left;
 }
 
