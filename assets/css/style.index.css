@@ -1,13 +1,15 @@
-#h1-text{
+#h1-text {
     text-align: center;
     color: white;
 }
+
 #p-brasil {
     font-size: 20px;
     color: white;
     font-family: cursive;
     text-align: center;
 }
+
 body {
     background-color: rgb(50, 16, 16);
     color: rgb(255, 255, 255);
@@ -18,7 +20,14 @@ body {
     margin-top: 30px;
 }
 
-.div-cardapio{
+.section-promo {
+    display: flex;
+    color: black;
+}
+
+
+
+.div-cardapio {
     background-color: white;
     margin-left: 20px;
     margin-right: 20px;
@@ -28,13 +37,16 @@ body {
     border-top: 7px solid red;
 }
 
-p{
+p {
     text-align: justify;
     margin: 10px;
 }
 
-.article-promo{
+.article-promo {
     background-color: white;
+    padding: 15px;
+    border-left: 12px solid red;
+    border-radius: 5px;
 }
 
 .hamburguer {
@@ -53,7 +65,7 @@ p{
     display: flex;
 }
 
-#menu2 { 
+#menu2 {
     display: flex;
 }
 
@@ -71,4 +83,34 @@ p{
     margin: 8px;
     border-style: double;
     border-color: black
+}
+
+#p-promo {
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+#h2-promo {
+    color: rgb(61, 30, 30);
+    font-family: cursive;
+    text-align: left;
+    color: black;
+
+}
+
+#titlo {
+    text-align: center;
+}
+
+.img-lanches {
+    width: 120px;
+    height: px;
+    text-align: right;
+}
+
+#iframeFooter {
+    width: 100%;
 }
