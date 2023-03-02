@@ -1,3 +1,42 @@
+#h1-text{
+    text-align: center;
+    color: white;
+}
+#p-brasil {
+    font-size: 20px;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+body {
+    background-color: rgb(50, 16, 16);
+    color: rgb(255, 255, 255);
+}
+
+.section-cardapio {
+    display: flex;
+    margin-top: 30px;
+}
+
+.div-cardapio{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: black;
+    text-align: center;
+    border-radius: 7px;
+    border-top: 7px solid red;
+}
+
+p{
+    text-align: justify;
+    margin: 10px;
+}
+
+.article-promo{
+    background-color: white;
+}
+
 .hamburguer {
     background-color: red;
     color: black;
