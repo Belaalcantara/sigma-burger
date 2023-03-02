@@ -1,6 +1,7 @@
 #h1-text {
     text-align: center;
     color: white;
+    
 }
 
 #p-brasil {
@@ -8,6 +9,7 @@
     color: white;
     font-family: cursive;
     text-align: center;
+    font-family: monospace;
     
 }
 
@@ -22,6 +24,7 @@ body {
 .section-cardapio {
     display: flex;
     margin-top: 30px;
+    border: outset;
 }
 
 .section-promo {
