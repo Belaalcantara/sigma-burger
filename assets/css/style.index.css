@@ -24,13 +24,13 @@ body {
 
 .section-promo {
     display: flex;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 
 
 .div-cardapio {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     margin-left: 20px;
     margin-right: 20px;
     color: black;
@@ -46,7 +46,7 @@ p {
 }
 
 .article-promo {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 15px;
     border-left: 12px solid red;
     border-radius: 5px;
@@ -111,7 +111,7 @@ p {
 .img-lanches {
     width: 120px;
     height: px;
-    text-align: right;
+    text-align: left;
 }
 
 #iframeFooter {
